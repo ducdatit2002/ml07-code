@@ -1,0 +1,11 @@
+# Python >= 3.10. Khuyến nghị 3.11 hoặc 3.12 cho môi trường học tập.
+streamlit>=1.35,<2
+scikit-learn>=1.4,<2
+numpy>=1.26,<3
+pandas>=2.1,<3
+matplotlib>=3.8,<4
+plotly>=5.20,<7
+joblib>=1.3,<2
+datasets>=3.0,<5
+jupyter>=1.0,<2
+ipykernel>=6.29,<8
